@@ -1,7 +1,3 @@
-# Imie i nazwisko:Kacper Kolodynski
-# Temat cwiczenia: Sprawozdanie ze skryptu wykonujacego operacje na plikach ze zdjeciami.
-# Data:15.12.2018
-
 # Opis wybranych elementow dotyczacych pracy z systemem X Window
 # Uruchomienie kilku klientow
 # Poruszanie sie miedzy pulpitami
