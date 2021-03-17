@@ -137,7 +137,7 @@ std::istream &operator >>(std::istream &input, WyrazenieZesp &WyrZ)
 
 
 
-
+//Funkcja wczytująca wyrażenie zespolone
 
 /*void Wczytaj(LZespolona Liczba,LZespolona Liczba2, WyrazenieZesp WyrZ, Operator z){
 WyrZ.Arg1=Liczba;
