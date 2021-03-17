@@ -29,33 +29,7 @@ int Scena::Inicjalizuj(PzG::LaczeDoGNUPlota  &Lacze)
 
     Lacze.UstawRotacjeXZ(64,65); // Tutaj ustawiany jest widok
 
-    //Dron Dron1(0,Lacze);
-    
-	//roboty.back().ustaw_index(0);
-
-	//for( list<shared_ptr<Dron>>::iterator iter = roboty.begin(); /*warunek końca pętli*/( iter != roboty.end() ); iter++)
-		//*roboty[0].ustaw_index(0);
-   
-	//Dron1.ustaw_index(0);
-    //Dron Dron2(70,Lacze);
-    //Dron2.ustaw_index(1);
-
-	//wsk = new PrzeszkodaPr(70);
-    //wsk->Inicjalizuj(0,Lacze);
-   
-
-   // wsk1 = new PrzeszkodaPr(-10);
-    //wsk1->Inicjalizuj(1,Lacze);
-
-    //Dron Dron3(40,Lacze);
-    //Dron1.ustaw_index(2);
-
-    //Dron1.Inicjalizuj();
-    //Dron2.Inicjalizuj();
-    //Dron3.Inicjalizuj();
-	//obiekty[0]->Inicjalizuj();
-
-	return 0;
+  	return 0;
 
 }
 
