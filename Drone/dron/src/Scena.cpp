@@ -35,7 +35,7 @@ int Scena::Inicjalizuj(PzG::LaczeDoGNUPlota  &Lacze)
 
 	//for( list<shared_ptr<Dron>>::iterator iter = roboty.begin(); /*warunek końca pętli*/( iter != roboty.end() ); iter++)
 		//*roboty[0].ustaw_index(0);
-        // cout << "dupa" << endl;
+   
 	//Dron1.ustaw_index(0);
     //Dron Dron2(70,Lacze);
     //Dron2.ustaw_index(1);
