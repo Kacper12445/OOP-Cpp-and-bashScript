@@ -16,7 +16,7 @@ static WyrazenieZesp  TestLatwy[] =
     {{4,8}, Op_Dziel, {1,0}},
   };
 /*
- * Analogicznie zdefiniuj test "trudne"
+ * test trudny
  *
  */
 
