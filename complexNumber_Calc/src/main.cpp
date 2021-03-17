@@ -61,9 +61,6 @@ int main(int argc, char **argv)
       }
   }
 
-
-//Wyswietl(WyrZ_PytanieTestowe);
-
   cout << endl;
   cout << "Koniec testu" << endl;
   Wyswietl(x);
