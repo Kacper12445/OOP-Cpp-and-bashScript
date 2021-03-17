@@ -176,7 +176,6 @@ bool PrzeszkodaPr::CzyKolizja(const shared_ptr<Dron> Ob) const
 {
     Wektor3D wek;
     wek = Ob->get_srodek();
-    //cout<<"sddssdds"<<endl;
 
     if(wek[0] > obrys_x[1] && wek[0] < obrys_x[0] && wek[1] > obrys_y[1] && wek[1] < obrys_y[0] )// wek[2] > obrys_z[1] && wek[2] < obrys_z[0])
     {
