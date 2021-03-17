@@ -64,23 +64,8 @@ int main(int argc, char **argv)
 
 //Wyswietl(WyrZ_PytanieTestowe);
 
- cout << endl;
+  cout << endl;
   cout << "Koniec testu" << endl;
   Wyswietl(x);
 
 
-
-
-
-  LZespolona L1,L2;
-  L1.re =1;
-  L1.im=2;
-  L2.re=4;
-  L2.im=3;
-  cout<<"L1 =" <<L1<<endl;
-  cout<<"L2 =" <<L2<<endl;
-L1+=L2;
-cout<<"L1 ="<<L1<<endl;
-L2-=L1;
-cout<<"L2 ="<<L2<<endl;
-}
