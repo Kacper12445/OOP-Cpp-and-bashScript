@@ -15,7 +15,7 @@ LZespolona Oblicz(WyrazenieZesp  WyrZ)
 		wynik=WyrZ.Arg1/WyrZ.Arg2;
 	return wynik;
 	
-	/*switch(WyrZ.Op)
+	/*switch(WyrZ.Op)	//to samo tylko w switch
 	{
 	case Op_Dodaj:
 	wynik=WyrZ.Arg1+WyrZ.Arg2;
